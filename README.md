@@ -17,11 +17,11 @@ Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalizat
 * Requirements
 
   * MATLAB
-  * Image Processing Toolbox (Required by LIME)
+  * Image Processing Toolbox, required by LIME
 
-* run `mex ContrastAccumulatedHistogram.c` to build mex function
+* Run `mex ContrastAccumulatedHistogram.c` to build mex function
 
-* run `demo.m` for the demo
+* Run `demo.m` for the demo
 
 * `LIME.p` is provided by [Guo et al.](https://sites.google.com/view/xjguo/lime), which is used as an edge preserving filter for illumination estimation.
 
