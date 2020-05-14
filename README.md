@@ -27,6 +27,6 @@ Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalizat
 
 * Test images are provided by [USC-SIPI](http://sipi.usc.edu/database/) and by [Guo et al.](https://sites.google.com/view/xjguo/lime)
 
-* Technical questions should be directed to the contact author, Xiaomeng Wu, using the following email address:
+* Technical questions should be directed to the contact author, Xiaomeng Wu, whose email address is as follows:
 
   ![qr](qr.png)
