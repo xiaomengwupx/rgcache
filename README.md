@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/OS-CentOS%206.5-green.svg)
 
-Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalization](https://www.researchgate.net/publication/341083911_Reflectance-guided_contrast-accumulated_histogram_equalization)"
+Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalization](https://www.researchgate.net/publication/341083911_Reflectance-guided_contrast-accumulated_histogram_equalization)" in ICASSP 2020.
 
 * In this paper, we proposed a histogram equalization-based image enhancement method that adapts to the data-dependent requirements of brightness enhancement and improves the visibility of details without losing the global contrast.
 
@@ -23,9 +23,9 @@ Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalizat
 
 * run `demo.m` for the demo
 
-* `LIME.p` is provided by [Guo et al.] (https://sites.google.com/view/xjguo/lime) , which is used as an edge preserving filter for illumination estimation.
+* `LIME.p` is provided by [Guo et al.](https://sites.google.com/view/xjguo/lime), which is used as an edge preserving filter for illumination estimation.
 
-* Test images are provided by [USC-SIPI] (http://sipi.usc.edu/database/) and by [Guo et al.] (https://sites.google.com/view/xjguo/lime)
+* Test images are provided by [USC-SIPI](http://sipi.usc.edu/database/) and by [Guo et al.](https://sites.google.com/view/xjguo/lime)
 
 * Technical questions should be directed to the contact author, Xiaomeng Wu, using the following email address:
 
