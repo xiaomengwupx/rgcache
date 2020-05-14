@@ -12,7 +12,7 @@ Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalizat
 
 * Please read `LICENSE.md` for license details.
 
-* The original code was tested using MATLAB2017b on a machine running CentOS 6.5, but should also work on other OSs.
+* The original code was tested using MATLAB R2017b on a machine running CentOS 6.5, but should also work on other OSs.
 
 * Requirements
 
