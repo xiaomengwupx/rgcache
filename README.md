@@ -17,7 +17,7 @@ Code of the paper "[Reflectance-guided, contrast-accumulated histogram equalizat
 * Requirements
 
   * MATLAB
-  * Image Processing Toolbox, required by LIME
+  * Image Processing Toolbox (required by LIME)
 
 * Run `mex ContrastAccumulatedHistogram.c` to build mex function
 
